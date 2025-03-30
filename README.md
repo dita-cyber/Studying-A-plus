@@ -1,5 +1,6 @@
 # Studying for CompTIA A+ back in 2019
 
+![image alt](https://github.com/dita-cyber/Studying-A-plus/blob/1af3aa3bf4dfa4ec498b034167f78097ea79ef12/apluscomp.png)
 
 After being in the IT industry for over five years now, I still receive messages asking how I got started and managed to study for my A+ certification on my own. So, I thought it would be helpful to organize my journey from the beginning, sharing the materials and strategies that worked for me.
 
