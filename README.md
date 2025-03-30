@@ -1,4 +1,4 @@
-# Studying-A+
+# Studying for CompTIA A+ back in 2019
 
 
 After being in the IT industry for over five years now, I still receive messages asking how I got started and managed to study for my A+ certification on my own. So, I thought it would be helpful to organize my journey from the beginning, sharing the materials and strategies that worked for me.
