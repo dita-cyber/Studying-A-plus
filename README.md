@@ -1,4 +1,4 @@
-# Studying for CompTIA A+ back in 2019
+# Studying for CompTIA A+
 
 ![image alt](https://github.com/dita-cyber/Studying-A-plus/blob/1af3aa3bf4dfa4ec498b034167f78097ea79ef12/apluscomp.png)
 
